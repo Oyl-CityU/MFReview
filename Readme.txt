@@ -17,3 +17,14 @@ scRNA-seq data imputation
 	CMFImpute	https://github.com/xujunlin123/CMFImpute
 	mcImpute	https://github.com/aanchalMongia/McImpute_scRNAseq
 	scTSSR	https://github.com/Zhangxf-ccnu/scTSSR
+
+The evaluation codes and processed datasets are also publicly available, which can be downloaded from the following links:
+
+Link prediction in biomedical bipartite networks
+https://github.com/stephenliu0423/PyDTI.git
+
+Synthetic lethality interaction prediction
+https://github.com/stephenliu0423/SL2MF
+
+scRNA-seq data imputation
+https://github.com/Zhangxf-ccnu/EnImpute
